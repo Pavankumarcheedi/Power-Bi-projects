@@ -8,8 +8,6 @@ This repository contains multiple Power BI projects with dashboards and reports.
 ## 📌 Project Overview
 The Global Sales Analysis dashboard provides insights into sales performance across different regions, products, and customer segments. This report helps businesses track key sales metrics, identify trends, and optimize decision-making.
 
-## 🚀 Key Features
-
 ## 🚀 Key Features  
 - 📈 **Revenue Analysis** – Track total sales, revenue growth, and profitability.  
 - 🌍 **Regional Performance** – Compare sales across different countries and regions.  
