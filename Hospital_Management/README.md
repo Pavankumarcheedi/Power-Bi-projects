@@ -1,23 +1,24 @@
 # Hospital Management Dashboard
 
 ## Overview
-This Power BI dashboard provides an insightful analysis of hospital management performance. It tracks **admissions, discharges, billing, insurance providers, and patient statistics** to enhance healthcare decision-making.
+The **Hospital Management Dashboard** provides key insights into hospital operations, including **admissions, discharges, billing, patient demographics, and insurance provider analysis**. This dashboard helps in tracking hospital performance and improving healthcare decision-making.
 
 ## Data Source
 - **Kaggle** (Hospital Management Dataset)
 - **Data Cleaning & Modeling**: Performed in Power BI
 
 ## Key Insights:
-- **Total Admissions & Discharges**: The number of total admissions (778) is almost equal to discharges (779), indicating a balanced patient flow.
-- **Billing Analysis**: UnitedHealthcare has the highest total billing amount (**₹49.3M**), followed by Cigna and Blue Cross.
-- **Gender & Admission Type**: Elective admissions are higher compared to urgent and emergency cases.
-- **Insurance Provider Distribution**: The pie chart shows that UnitedHealthcare and Medicare account for the majority of admissions.
-- **Total Discharges Trend**: The number of discharges peaked in 2021 (160) but declined in 2023 (146).
-- **Medical Condition Breakdown**: Arthritis has the highest patient count, followed by Diabetes and Cancer.
+- **Total Admissions & Discharges**: The hospital has **778 admissions** and **779 discharges**, indicating a well-balanced patient flow.
+- **Billing Analysis**: **UnitedHealthcare** has the highest total billing (**₹49.3M**), followed by **Cigna** and **Blue Cross**.
+- **Gender & Admission Type**: **Elective admissions** are the highest, followed by **urgent** and **emergency cases**.
+- **Insurance Provider Distribution**: The **pie chart** shows that **UnitedHealthcare and Medicare** contribute the most admissions.
+- **Total Discharges Trend**: Discharges peaked in **2021 (160)** but dropped to **146 in 2023**.
+- **Medical Condition Breakdown**: **Arthritis** has the highest patient count, followed by **Diabetes** and **Cancer**.
 
 ## Files in this Folder:
-- `Hospital_Management_Dashboard.pbix` - Power BI Project File
-- `Hospital_Management_Dashboard.png` - Screenshot of the Dashboard
+- `Hospital_Management.pbix` - Power BI Project File
+- `Hospital_Management.png` - Screenshot of the Dashboard
 
 ## Preview:
-![Hospital Management Dashboard](Hospital_Management_Dashboard.png)
+![Hospital Management Dashboard](dashboard_image.png)
+
