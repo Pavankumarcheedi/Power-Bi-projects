@@ -19,5 +19,17 @@ The Global Sales Analysis dashboard provides insights into sales performance acr
 
 ---
 
+### 2. [Hospital Management Dashboard](Hospital_Management/)  
+## 📌 Project Overview  
+The Hospital Management Dashboard provides insights into hospital operations, including patient admissions, discharges, billing, and insurance analysis. This report helps healthcare administrators track key performance metrics and optimize hospital management.  
+
+## 🚀 Key Features  
+- 🏥 **Total Admissions & Discharges** – Monitor patient flow and hospital occupancy.  
+- 💰 **Billing Analysis** – Track total billing amounts by insurance provider and medical condition.  
+- ⚕️ **Medical Condition Breakdown** – Identify the most common health conditions among patients.  
+- 👩‍⚕️ **Gender & Admission Type** – Analyze admission trends based on gender and urgency.  
+- 🏦 **Insurance Provider Insights** – Understand the distribution of admissions across insurance providers.  
+
+
 🔹 Click on any project title to view its files.  
 🔹 Download the `.pbix` file to explore the dashboard.  
